@@ -1,0 +1,74 @@
+{
+    "employeelist": [
+        {
+            "name": "Erin Vetrovs",
+            "title": "Captain",
+            "department": "Fire Department",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        },
+        {
+            "name": "Mira Westervelt",
+            "title": "Firefighter",
+            "department": "Fire Department",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        },
+        {
+            "name": "James Passaquindici Arcand",
+            "title": "Engineer",
+            "department": "Building Safety Service",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        },
+        {
+            "name": "Jaylon Siphron",
+            "title": "Fire Protection Specialist",
+            "department": "Fire Department",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        },
+        {
+            "name": "Omar Dias",
+            "title": "Engineer",
+            "department": "Building Safety Service",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        },
+        {
+            "name": "Roger Dorwart",
+            "title": "Engineer",
+            "department": "Community Safety",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        },
+        {
+            "name": "Jaxson Culhane",
+            "title": "Engineer",
+            "department": "Fire Department",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        },
+        {
+            "name": "Kadin George",
+            "title": "Firefighter ",
+            "department": "Fire Department",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        },
+        {
+            "name": "James Schleifer",
+            "title": "Firefighter ",
+            "department": "Fire Department",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        },
+        {
+            "name": "Gustavo Dias",
+            "title": "Firefighter ",
+            "department": "Fire Department",
+            "phone": "(714) 754-5106",
+            "email": "user@email.com"
+        }
+    ]
+}
