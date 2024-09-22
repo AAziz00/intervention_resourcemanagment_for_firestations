@@ -1,7 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import AppLayout from "./AppLayout";
 import Login from "./Pages/Login";
-
 import DashBoard from "./Pages/DashBoard";
 import Services from "./Pages/Services";
 import Incidents from "./Pages/Incidents";
